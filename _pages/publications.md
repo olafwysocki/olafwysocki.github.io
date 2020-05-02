@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-* **Hands-on article “Helping Cyclists Stay Safe Using HERE Studio”**, FEBRUARY 2020, HERE, [Read](https://developer.here.com/blog/helping-cyclists-stay-safe-here-studio?_lrsc=13d8722c-a051-46a5-ba3f-cc20e5148d03&cid=other-Elevate-FD-0-HERE-&utm_source=Elevate&utm_medium=social&utm_campaign=Online_CommsShare_2020) 
+##### Wysocki O (2019), Helping Cyclists Stay Safe Using HERE Studio. HERE Developer Accessed: 10.04.2020 [Read](http://tiny.cc/v3gsmz)
 
 ---
 

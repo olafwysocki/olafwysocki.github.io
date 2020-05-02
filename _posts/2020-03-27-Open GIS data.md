@@ -21,6 +21,7 @@ There you go:
 -[USGS](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-non?qt-science_center_objects=0#qt-science_center_objects) - DEM (Digital Elevation Model) SRTM (The Shuttle Radar Topography Mission) dataset with grid ~90m or ~30m
 -[GEOFABRIK](https://www.geofabrik.de/) - gathers data from [OpenStreetMap](https://www.openstreetmap.org) and yields .shp files packages for different regions/countries
 - [Copernicus Global Land Service](https://land.copernicus.eu/global/products/sa) Surface Albedo (1km grid), TOC Reflectance, Land Surface Temperature (5km grid)
+-[Global Soil Regions Map](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/?cid=nrcs142p2_054013)
 ## **Europe**
 #### **DEM/DSM:**
 -[Copernicus, EU-DEM (aka European Digital Elevation Model (EU-DEM), version 1.1)](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1?tab=metadata)  - DSM (Digital Surface Model) dataset with grid 25m

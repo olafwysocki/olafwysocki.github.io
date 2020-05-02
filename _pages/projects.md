@@ -15,7 +15,7 @@ title: "Projects"
 
 
 ![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
-*Web application screenshot*
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Web application screenshot*
 
 ## Echoes of Breslau in Wroclaw
 
@@ -25,7 +25,7 @@ title: "Projects"
 
 
 ![photoTwo](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-5..jpg)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Exploration of the map in ArcGIS Online*
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; *Exploration of the map in ArcGIS Online*
 
 ![photoThree](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-2..jpg)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Inscriptions from Breslau times in the Wroclaw city*
