@@ -15,7 +15,7 @@ title: "Projects"
 
 
 ![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Web application screenshot*
+
 
 ## Echoes of Breslau in Wroclaw
 
@@ -25,10 +25,8 @@ title: "Projects"
 
 
 ![photoTwo](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-5..jpg)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; *Exploration of the map in ArcGIS Online*
 
 ![photoThree](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-2..jpg)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Inscriptions from Breslau times in the Wroclaw city*
 
 ## What can you see from the observation tower in the Sudetes and why can you see more?
 
@@ -39,7 +37,5 @@ title: "Projects"
 [![Globe](/icons/mapIconGreen.png)](https://bit.ly/2rX4Z8A) 2D Web-map
 
 ![photo1](https://www.arcanagis.pl/wp-content/uploads/2018/06/Rys.-1.-Wie%C5%BCa-widokowa-Suszynka-%C5%BAr%C3%B3d%C5%82o-w%C5%82asne.jpg)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;*Observation tower Suszynka*
 
 ![photo2](https://www.arcanagis.pl/wp-content/uploads/2018/06/Rys.-6.-Wizualizacja-widoczno%C5%9Bci-z-wie%C5%BCy-widokowej-Suszynka-czerwony-blok-%C5%BAr%C3%B3d%C5%82o-w%C5%82asne.jpg)
-*3D visualisation of new localisation of observation tower (red) with possible visible landmarks (blue)*
