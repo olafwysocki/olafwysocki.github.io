@@ -15,7 +15,7 @@ title: "Projects"
 
 
 ![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Web application screenshot*
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Web application screenshot*
 
 ## Echoes of Breslau in Wroclaw
 
