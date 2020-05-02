@@ -3,13 +3,13 @@ permalink: /publications/
 title: "Publications"
 ---
 
-#####  Wysocki O (2019), Helping Cyclists Stay Safe Using HERE Studio. HERE Developer 
-##### [Online](http://tiny.cc/v3gsmz)
+######  Wysocki O (2019), Helping Cyclists Stay Safe Using HERE Studio. HERE Developer 
+###### [Online](http://tiny.cc/v3gsmz)
 
 ---
 
-##### Angermann L, Donaubauer A, Graw K, Holtkamp J, Huber T, Nguyen S H, Schwab B, Wysocki O (2019), INTERGEO 2019 Trend analysis. HINTE Messe- und Ausstellungs-GmbH
-##### [PDF](http://tiny.cc/hshsmz)
+###### Angermann L, Donaubauer A, Graw K, Holtkamp J, Huber T, Nguyen S H, Schwab B, Wysocki O (2019), INTERGEO 2019 Trend analysis. HINTE Messe- und Ausstellungs-GmbH
+###### [PDF](http://tiny.cc/hshsmz)
 
 ---
 
