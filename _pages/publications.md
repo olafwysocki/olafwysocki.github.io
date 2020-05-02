@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 ######  Wysocki O (2019), Helping Cyclists Stay Safe Using HERE Studio. HERE Developer 
-###### [Online](http://tiny.cc/v3gsmz)
+[Online](http://tiny.cc/v3gsmz)
 
 ---
 
