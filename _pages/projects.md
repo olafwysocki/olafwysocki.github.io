@@ -48,7 +48,7 @@ title: "Projects"
 ![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
 
 
-## :city_sunset: Echoes of Breslau in Wroclaw
+## :office: Echoes of Breslau in Wroclaw
 
 [![publication](/icons/documentIconRed.png)](https://www.arcanagis.pl/echa-breslau-we-wroclawiu/) ArcanaGIS article about the project
 
