@@ -2,7 +2,7 @@
 permalink: /projects/
 title: "Projects"
 ---
-## Football data visualisation with Deck.gl (under construction)
+## :soccer: Football data visualisation with Deck.gl (under construction)
 
 
 [![Globe](/icons/mapIconGreen.png)](https://zmapowany.github.io/) Web-map
@@ -10,20 +10,20 @@ title: "Projects"
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/Zmapowany/zmapowany.github.io) GitHub repo
 
 
-## Clearance Space Detector
+## :truck: Clearance Space Detector
 
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/tum-gis/clearance-space-detector) GitHub repo
 
 
-## Hyperloop Path Finder
+## :bullettrain_side: Hyperloop Path Finder
 
 
 [![Globe](/icons/mapIconGreen.png)](https://olaf2wysocki.github.io/) Web-map
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/olaf2wysocki/olaf2wysocki.github.io) GitHub repo
 
-## Save the Cyclists!
+## :bicyclist: Save the Cyclists!
 
 
 [![publication](/icons/documentIconRed.png)](https://developer.here.com/blog/helping-cyclists-stay-safe-here-studio?_lrsc=13d8722c-a051-46a5-ba3f-cc20e5148d03&cid=other-Elevate-FD-0-HERE-&utm_source=Elevate&utm_medium=social&utm_campaign=Online_CommsShare_2020) Hands-on tutorial on HERE Developer page
@@ -38,7 +38,7 @@ title: "Projects"
 ![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
 
 
-## Echoes of Breslau in Wroclaw
+## :city_sunset: Echoes of Breslau in Wroclaw
 
 [![publication](/icons/documentIconRed.png)](https://www.arcanagis.pl/echa-breslau-we-wroclawiu/) ArcanaGIS article about the project
 
@@ -49,7 +49,7 @@ title: "Projects"
 
 ![photoThree](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-2..jpg)
 
-## What can you see from the observation tower in the Sudetes and why can you see more?
+## :european_castle: What can you see from the observation tower in the Sudetes and why can you see more?
 
 [![publication](/icons/documentIconRed.png)](https://www.arcanagis.pl/co-widac-z-wiezy-widokowej-w-sudetach-i-dlaczego-mozna-zobaczyc-wiecej/) ArcanaGIS article about the project
 
