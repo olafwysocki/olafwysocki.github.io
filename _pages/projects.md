@@ -10,10 +10,16 @@ title: "Projects"
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/Zmapowany/zmapowany.github.io) GitHub repo
 
 
+![photoTwo](https://raw.githubusercontent.com/Zmapowany/zmapowany.github.io/master/photos/screenshot.PNG)
+
+
 ## :truck: Clearance Space Detector
 
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/tum-gis/clearance-space-detector) GitHub repo
+
+
+![photoTwo](https://raw.githubusercontent.com/tum-gis/clearance-space-detector/master/Screenshots/profile.PNG)
 
 
 ## :bullettrain_side: Hyperloop Path Finder
@@ -22,6 +28,10 @@ title: "Projects"
 [![Globe](/icons/mapIconGreen.png)](https://olaf2wysocki.github.io/) Web-map
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/olaf2wysocki/olaf2wysocki.github.io) GitHub repo
+
+
+![photoTwo](https://raw.githubusercontent.com/olaf2wysocki/olaf2wysocki.github.io/master/screenshots/pod.jpg)
+
 
 ## :bicyclist: Save the Cyclists!
 
