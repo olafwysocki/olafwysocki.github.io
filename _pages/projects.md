@@ -5,7 +5,7 @@ title: "Projects"
 ## Football data visualisation with Deck.gl (under construction)
 
 
-[![Globe](:earth_africa:)](https://zmapowany.github.io/) Web-map
+[![Globe](/icons/mapIconGreen.png)](https://zmapowany.github.io/) Web-map
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/Zmapowany/zmapowany.github.io) GitHub repo
 
