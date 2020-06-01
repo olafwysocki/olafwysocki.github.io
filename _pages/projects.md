@@ -2,6 +2,27 @@
 permalink: /projects/
 title: "Projects"
 ---
+## Football data visualisation with Deck.gl (under construction)
+
+
+[![Globe](:earth_africa:)](https://zmapowany.github.io/) Web-map
+
+[![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/Zmapowany/zmapowany.github.io) GitHub repo
+
+
+## Clearance Space Detector
+
+
+[![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/tum-gis/clearance-space-detector) GitHub repo
+
+
+## Hyperloop Path Finder
+
+
+[![Globe](/icons/mapIconGreen.png)](https://olaf2wysocki.github.io/) Web-map
+
+[![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/olaf2wysocki/olaf2wysocki.github.io) GitHub repo
+
 ## Save the Cyclists!
 
 
