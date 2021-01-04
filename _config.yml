@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Olaf Wysocki"
   avatar : "/assets/images/my_photo.png"
-  bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis @ Audi AG & TUM. Passionate about geospatial world and Manchester United."
+  bio    : "I am a Research Assitant & PhD Candidate at the TUM within the semantic 3D building reconstruction field. Passionate about the geospatial world and Manchester United."
   linkedin: olaf-wysocki-24b557148
   links:
 #     - label: "Email"
@@ -76,9 +76,9 @@ author:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/oloocki?lang=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/OloOcki"
