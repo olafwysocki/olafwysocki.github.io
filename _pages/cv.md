@@ -7,6 +7,7 @@ title: "CV"
 
 |        |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Professional experience** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  |
 | :-------------: |:-------------:| :-----:|
+| Sep 2020 - present | **Research Assistant & PhD Candidate** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    ![TUM](/icons/tum_logo.png) |
 | Mar 2020 - Sep 2020      | **Master’s Thesis Candidate** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany* |          ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
 | Aug 2019 - Sep 2019      |**Intern** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany*        |  ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
 | Dec 2018 - Mar 2020 | **Student Research Assistant** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    ![TUM](/icons/tum_logo.png) |
