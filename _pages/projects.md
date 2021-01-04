@@ -10,8 +10,6 @@ title: "Projects"
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/Zmapowany/zmapowany.github.io) GitHub repo
 
 
-![photoTwo](https://raw.githubusercontent.com/Zmapowany/zmapowany.github.io/master/photos/screenshot.PNG)
-
 
 ## :truck: Clearance Space Detector
 
