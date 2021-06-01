@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Olaf's home page 
-email: olafwysocki@o2.pl
+email: olaf.wysocki@tum.de
 logo: "/assets/images/earthLogo.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Olaf Wysocki website about his geospatial world. The website presents his CV,
   blog, geospatial news, GIS (Geographical Information Systems), Photogrammetry, Remote Sensing, Computer Vision, Machine Learning, AI.
   Applications in maps creation, like Autonomous driving technology from AUDI AG perspective,
   and relation to Elon Musk point of view.
-  Olaf is also a member of Hyperloop TUM (idea of Elon Musk) team.
+  Olaf was also a member of Hyperloop TUM (idea of Elon Musk) team.
 twitter_username: username
 github_username: olafwysocki
 minimal_mistakes_skin: "contrast"
@@ -107,7 +107,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: home
     values:
       layout: single
       author_profile: true
