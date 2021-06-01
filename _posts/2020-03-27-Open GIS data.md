@@ -1,40 +1,51 @@
+
 ---
-title: "Open GIS data"
+title: "## **Transfer of Semantics: Usability Analysis of Semantic 3D Building Models in Automatic Annotation of MLS Point Clouds**"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Open data
-  - INSPIRE
-  - GIS
-  - open movements
+  - TUM
+  - standard
+  - digital twin
+  - point clouds
+  - MLS
+  - 3D GIS
+  - Ground-truth
+  - labeling
 ---
-I know, there are many websites in the Internet and on GitHub itself about open data.
+![photo](/assets/images/lod3b.png)
+**Intro**
+For training and validation of machine learning models, one needs to have a reliable source of the ground-truth information. Currently, most of the ground-truth annotations for Mobile Laser Scanning (MLS) point clouds are acquired manually which is both a laborious and tedious task that prevents scalability of the solution. Moreover, even manually annotated datasets mostly do not consist of classes depicting building’s details like windows or doors which excludes them from applications regarding 3D models reconstruction. 
 
-However, I would like to present my own list of open data sources which I, personally, find useful. Most of them are also tested by me. So...
+Nowadays, most of large cities around the world maintain highly reliable 3D models characterized by high global accuracy and rich semantics at different level of details (LoD). Therefore, it is believed that the legacy of semantic city models created throughout the years should not be squandered and the a priori knowledge of the scene can be transferred to MLS point clouds.
 
-*(last list update 27.03.2020, **list not completed yet**)*
+**The aim of this project is:**
+- to develop a method for information transfer from structured (semantic 3D models) to unstructured (point clouds) datasets. 
+- The method should address co-registration issues of fused datasets. The evaluation should be conducted w.r.t. transfer accuracy by comparison with labeled point cloud datasets. 
+- The critical review of city models usability should be provided analyzing city models availability at different levels of details and its impact on the final accuracy.
 
-There you go:
+The requirements for this Thesis are:
+- basic knowledge of GIS and 
+- good skills in Python (or similar).  
 
-## **Global**
--[USGS](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-non?qt-science_center_objects=0#qt-science_center_objects) - DEM (Digital Elevation Model) SRTM (The Shuttle Radar Topography Mission) dataset with grid ~90m or ~30m
--[GEOFABRIK](https://www.geofabrik.de/) - gathers data from [OpenStreetMap](https://www.openstreetmap.org) and yields .shp files packages for different regions/countries
-- [Copernicus Global Land Service](https://land.copernicus.eu/global/products/sa) Surface Albedo (1km grid), TOC Reflectance, Land Surface Temperature (5km grid)
--[Global Soil Regions Map](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/?cid=nrcs142p2_054013)
-## **Europe**
-#### **DEM/DSM:**
--[Copernicus, EU-DEM (aka European Digital Elevation Model (EU-DEM), version 1.1)](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1?tab=metadata)  - DSM (Digital Surface Model) dataset with grid 25m
-#### **Environment:**
-- [Air pollutant concentrations at station level (statistics)](https://www.eea.europa.eu/data-and-maps/data/air-pollutant-concentrations-at-station) - data from 2010 to 2016 (annual) registered at stations across Europe, stations with location and registered pollution amount
-- [Global Roads Open Access Data Set (gROADS)](http://www.ciesin.columbia.edu/confluence/display/roads/Global+Roads+Data) - one standarized dataset of roads, ~50m positional accuracy, topologically integrated, suitable for mapping at an approximate scale of 1:250,000, focused on roads between settlements (not streets)
-##### **Energy:**
-- [EnergyMap](http://www.energymap.info/map.html)
 
-## **Other websites with free data links** 
-- [Free GIS Datasets](https://freegisdata.rtwilson.com/)
-- [Open Data Inception](https://opendatainception.io/)
-- [Pangea](https://www.pangaea.de/)
-- [Geo-Wiki (includes Pangea)](https://www.geo-wiki.org/pages/data)
-- [Awesome Open Data](https://github.com/awesomedata/awesome-public-datasets#gis)
+**Contact:**
 
+- Chair:                                     Photogrammetry & Remote Sensing
+
+- Supervisor:                           Olaf Wysocki, M.Sc.
+
+- Office:                                    1776, TUM main campus
+
+- E-Mail:                                  olaf.wysocki@tum.de
+
+**References:**
+
+Biljecki, F., Stoter, J., Ledoux, H., Zlatanova, S. and Çöltekin, A., (2015) Applications of 3D city models: State of the art review. ISPRS International Journal of Geo-Information, 4(4), pp.2842-2889
+
+Griffiths D., Boehm J. (2019) A review on deep learning techniques for 3D sensed data classification. Remote Sensing, 11: 1499–1528
+
+Schwab B, Haas-Goschenhofer S and Wysocki O, (2020) LoD3 Road Space Models. [https://github.com/savein/lod3-road-space-models](https://github.com/savein/lod3-road-space-models) (31 January 2021)
+
+Zhu J., Gehrung J., Huang R., Borgmann B., Sun Z., Hoegner L., Hebel M., Xu Y., Stilla U. (2020) TUM-MLS-2016: An annotated mobile LiDAR dataset of the TUM city campus for semantic point-cloud interpretation in urban areas. Remote Sensing, 12(11): 1875
