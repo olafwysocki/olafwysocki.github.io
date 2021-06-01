@@ -70,9 +70,9 @@ author:
   bio    : "I'm Research Assitant & PhD Candidate at the TUM. My research focuses on the reconstruction of semantic 3D building models by means of MLS point clouds and confidence values. Passionate about the geospatial world and Manchester United."
   linkedin: olaf-wysocki-24b557148
   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:olafwysocki@o2.pl
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: mailto:olaf.wysocki@tum.de
     - label: "Website"
       icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
