@@ -73,7 +73,7 @@ author:
      - label: "Email"
        icon: "fas fa-fw fa-envelope-square"
        url: mailto:olaf.wysocki@tum.de
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
     - label: "Twitter"
