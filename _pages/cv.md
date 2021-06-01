@@ -22,7 +22,7 @@ title: "CV"
 | :-------------: |:-------------:| :-----:|
 | Oct 2018 - Sep 2020 | **M. Sc Geodesy & Geoinformation** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    ![TUM](/icons/tum_logo.png) |
 | Oct 2015 - Feb 2018 | **B.Eng. Geodesy and Cartography** <br> [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/)<br> *Wroclaw, Poland*       |    ![PWR](/icons/pwr.png) |
-| Oct 2016 - Jan 2017 | **B.Eng. School of Mineral Resources Engineering (Erasmus+)** <br> [Technical University of Crete](https://www.tum.de/en/)<br> *Chania, Greece*       |    ![TUC](/icons/crete.png) |
+| Oct 2016 - Jan 2017 | **Erasmus+ School of Mineral Resources Engineering** <br> [Technical University of Crete](https://www.tum.de/en/)<br> *Chania, Greece*       |    ![TUC](/icons/crete.png) |
 
 
 
