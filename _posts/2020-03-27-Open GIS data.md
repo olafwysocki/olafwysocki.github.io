@@ -1,21 +1,23 @@
-
 ---
-title: "## **Transfer of Semantics: Usability Analysis of Semantic 3D Building Models in Automatic Annotation of MLS Point Clouds**"
+title: "Transfer of Semantics: Usability Analysis of Semantic 3D Building Models in Automatic Annotation of MLS Point Clouds"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - TUM
-  - standard
+  - Master Thesis
+  - MLS point clouds
   - digital twin
-  - point clouds
-  - MLS
   - 3D GIS
-  - Ground-truth
-  - labeling
+  - Labeling
 ---
+
+
 ![photo](/assets/images/lod3b.png)
+
+
 **Intro**
+
+
 For training and validation of machine learning models, one needs to have a reliable source of the ground-truth information. Currently, most of the ground-truth annotations for Mobile Laser Scanning (MLS) point clouds are acquired manually which is both a laborious and tedious task that prevents scalability of the solution. Moreover, even manually annotated datasets mostly do not consist of classes depicting building’s details like windows or doors which excludes them from applications regarding 3D models reconstruction. 
 
 Nowadays, most of large cities around the world maintain highly reliable 3D models characterized by high global accuracy and rich semantics at different level of details (LoD). Therefore, it is believed that the legacy of semantic city models created throughout the years should not be squandered and the a priori knowledge of the scene can be transferred to MLS point clouds.
