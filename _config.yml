@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Olaf's home page 
-email: olaf.wysocki@tum.de
+email: olafwysocki@o2.pl
 logo: "/assets/images/earthLogo.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Olaf Wysocki website about his geospatial world. The website presents his CV,
   blog, geospatial news, GIS (Geographical Information Systems), Photogrammetry, Remote Sensing, Computer Vision, Machine Learning, AI.
   Applications in maps creation, like Autonomous driving technology from AUDI AG perspective,
   and relation to Elon Musk point of view.
-  Olaf was also a member of Hyperloop TUM (idea of Elon Musk) team.
+  Olaf is also a member of Hyperloop TUM (idea of Elon Musk) team.
 twitter_username: username
 github_username: olafwysocki
 minimal_mistakes_skin: "contrast"
@@ -67,15 +67,15 @@ plugins:
 author:
   name   : "Olaf Wysocki"
   avatar : "/assets/images/olaf.jpg"
-  bio    : "I'm Research Assitant & PhD Candidate at the TUM. My research focuses on the reconstruction of semantic 3D building models by means of MLS point clouds and confidence values. Passionate about the geospatial world and Manchester United."
+  bio    : "I am a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United."
   linkedin: olaf-wysocki-24b557148
   links:
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:olaf.wysocki@tum.de
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
-      url: "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: mailto:olafwysocki@o2.pl
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/oloocki?lang=en"
@@ -85,9 +85,9 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
 
       
 #footer:
@@ -107,7 +107,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: home
+      type: posts
     values:
       layout: single
       author_profile: true
