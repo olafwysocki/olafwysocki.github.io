@@ -15,6 +15,8 @@ tags:
 
 
 **Intro**
+
+
 Nowadays, many cities around the world create semantic 3D city models. However, these models have mostly coarse geometrical representation. As more and more mobile mapping units capture road space environments, datasets barely available before are emerging. This enables reconstruction of 3D models details like buildings‘ façades. Such 3D models are utilized in e.g., autonomous driving simulations, solar potential analysis, and urban planning.
 
 Nevertheless, the Mobile Laser Scanning (MLS) technique has several challenges to overcome w.r.t. building reconstruction. One of them are discontinuities in point clouds depicting buildings that results from occlusions due to presence of objects like trees, parked cars, or traffic signs. Pararelly, the growing popularity of crowd-sourcing platforms (e.g., Mapillary) and social media images (e.g., Flickr) results in influx of data describing city objects in variety of poses at the street level.
