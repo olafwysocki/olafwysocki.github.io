@@ -70,12 +70,12 @@ author:
   bio    : "I am a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United."
   linkedin: olaf-wysocki-24b557148
   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:olafwysocki@o2.pl
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: mailto:olaf.wysocki@tum.de
+    - label: "Google Scholar"
+      icon: "fa fa-flask"
+      url: "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/oloocki?lang=en"
@@ -85,9 +85,9 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
 
       
 #footer:
