@@ -72,9 +72,9 @@ author:
   bio    : "I am a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United."
   linkedin: olaf-wysocki-24b557148
   links:
-     - label: "Email"
-       icon: "fa fa-envelope"
-       url: olaf.wysocki@tum.de
+#     - label: "Email"
+#       icon: "fa fa-envelope"
+#       url: olaf.wysocki@tum.de
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
