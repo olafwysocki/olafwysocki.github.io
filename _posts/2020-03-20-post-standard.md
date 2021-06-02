@@ -1,17 +1,13 @@
-
 ---
 title: "Filling-in Gaps: Increasing Coverage of Buildings in MLS Point Clouds Using Crowd-sourced Images"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - TUM
-  - standard
+  - Master Thesis
+  - MLS point clouds
   - digital twin
-  - point clouds
-  - MLS
   - 3D GIS
-  - SfM
   - crowdsourcing
 ---
 
