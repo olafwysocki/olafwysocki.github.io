@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "Offered MSc Topics"
+  - title: "Thesis Topics"
     url: /posts/
   #- title: "Categories"
   #  url: /categories/
