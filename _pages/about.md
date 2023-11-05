@@ -18,7 +18,7 @@ I pursue my PhD under the mentorship of [Prof Thomas Kolbe](https://scholar.goog
 **Research interests**: 3D semantic reconstruction, 3D semantic segmentation, 3D building models, 3D virtual testbeds for automated driving, mobile mapping, urban digital twins
 
 <p align="center">
-    <img src="https://github.com/olafwysocki/olafwysocki.github.io/blob/master/images/OlafWysockiHomeOffice.jpg" width="65%" title="OlafAtBalcony"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/OlafWysockiHomeOffice.jpg" width="65%" title="OlafAtBalcony"/>
 </p>
 
 
