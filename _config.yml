@@ -85,9 +85,9 @@ author:
   bio              : "I'm a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United"
   location         : "Munich, Germany"
   employer         : "Technical University of Munich"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.asg.ed.tum.de/pf/team/olaf-wysocki/"
   googlescholar    : "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
-  email            :
+  email            : "olaf.wysocki@tum.de"
   researchgate     : "https://www.researchgate.net/profile/Olaf-Wysocki" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
