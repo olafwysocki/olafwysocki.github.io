@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Olaf Wysocki"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/olafwysocki/old_olafwysocki.github.io/blob/master/assets/images/olaf.jpg"
   bio              : "I'm a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United"
   location         : "Munich, Germany"
   employer         : "Technical University of Munich"
