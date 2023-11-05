@@ -83,9 +83,9 @@ author:
   name             : "Olaf Wysocki"
   avatar           : "profile.png"
   bio              : "I'm a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United"
-  location         : "Room 1776, TUM, Munich, Germany"
+  location         : "Munich, Germany"
   employer         : "Technical University of Munich"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Olaf-Wysocki" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/olaf-wysocki"
+  linkedin         : "olaf-wysocki"
   orcid            : "https://orcid.org/0000-0002-0016-0229"
   pinterest        :
   soundcloud       :
