@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Olaf Wysocki"
   avatar           : "olaf.jpg"
-  bio              : "I'm a Research Assistant & PhD Candidate at the TUM in the area of building reconstruction by means of MLS point clouds. Passionate about the geospatial world and Manchester United"
+  bio              : "Research associate, Photogrammetry & Remote Sensing, Technical University of Munich"
   location         : "Munich, Germany"
   employer         : "Technical University of Munich"
-  pubmed           : "https://www.asg.ed.tum.de/pf/team/olaf-wysocki/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en"
   email            : "olaf.wysocki@tum.de"
   researchgate     : "https://www.researchgate.net/profile/Olaf-Wysocki" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.asg.ed.tum.de/pf/team/olaf-wysocki/"
   bitbucket        :
   codepen          :
   dribbble         :
