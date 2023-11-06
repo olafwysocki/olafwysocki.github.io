@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2023
+---
 
 ### Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks
 
