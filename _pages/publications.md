@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2023
----
+-----
 
 ### Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks
 
@@ -18,6 +18,7 @@ author_profile: true
 
 
 ## 2022
+-----
 
 ### Combining visibility analysis and deep learning for refinement of semantic 3D building models by conflict classification
 
@@ -45,6 +46,7 @@ author_profile: true
 
 
 ## 2021
+-----
 
 ### Unlocking point cloud potential: Fusing MLS point clouds with semantic 3D building models while considering uncertainty
 
