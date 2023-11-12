@@ -30,3 +30,6 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Hobby projects"
+    url: /hobby-projects/
