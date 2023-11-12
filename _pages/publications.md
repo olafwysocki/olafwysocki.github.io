@@ -8,6 +8,10 @@ author_profile: true
 ## 2023
 -----
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="55%" title="OlafInSydney"/>
+</p>
+
 ### Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks
 
 **Wysocki, O.**, Xia, Y., Wysocki M., Grilli, E., Hoegner, L., Cremers D., and Stilla, U. 
