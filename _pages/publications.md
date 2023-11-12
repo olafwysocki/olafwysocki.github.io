@@ -9,7 +9,7 @@ author_profile: true
 -----
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="55%" title="OlafInSydney"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="55%" title="scan2lod3"/>
 </p>
 
 ### Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks
@@ -32,6 +32,10 @@ author_profile: true
 
 [[website](https://isprs-annals.copernicus.org/articles/X-4-W2-2022/289/2022/)] [[pdf](https://isprs-annals.copernicus.org/articles/X-4-W2-2022/289/2022/isprs-annals-X-4-W2-2022-289-2022.pdf)] [[arxiv](https://arxiv.org/abs/2303.05998)]
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/underpass.jpeg" width="55%" title="underpasses"/>
+</p>
+
 ### Refinement of semantic 3D building models by reconstructing underpasses from MLS point clouds
 
 **Wysocki, O.**, Hoegner, L. and Stilla, U.
@@ -39,6 +43,10 @@ author_profile: true
 **International Journal of Applied Earth Observation and Geoinformation**
 
 [[website](https://www.sciencedirect.com/science/article/pii/S1569843222000437)] [[pdf](https://www.sciencedirect.com/science/article/pii/S1569843222000437/pdfft?md5=ba44c93136df12d071b50f10a768c8d1&pid=1-s2.0-S1569843222000437-main.pdf)] 
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/visualisationAnnotatedPointCloudsA.gif" width="25%" title="scan2lod3"/>
+</p>
 
 ### TUM-FAÇADE: Reviewing and enriching point cloud benchmarks for façade segmentation
 
