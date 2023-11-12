@@ -64,6 +64,10 @@ author_profile: true
 ## 2021
 -----
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/confidenceLevel.png" width="25%" title="conf"/>
+</p>
+
 ### Unlocking point cloud potential: Fusing MLS point clouds with semantic 3D building models while considering uncertainty
 
 **Wysocki, O.**, Xu, Y. and Stilla, U. 
