@@ -9,8 +9,8 @@ main:
 #  - title: "Projects"
 #    url: /projects/
 
-	- title: "Awards"
-		url: /awards/
+  - title: "Awards"
+    url: /awards/
 
 #	- title: "Student projects"
 #		url: /studentsProjects/
