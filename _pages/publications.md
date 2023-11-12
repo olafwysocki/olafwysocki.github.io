@@ -76,6 +76,10 @@ author_profile: true
 
 [[website](https://isprs-annals.copernicus.org/articles/VIII-4-W2-2021/45/2021/)] [[pdf](https://isprs-annals.copernicus.org/articles/VIII-4-W2-2021/45/2021/isprs-annals-VIII-4-W2-2021-45-2021.pdf)]
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/plasticSurgery.png" width="25%" title="conf"/>
+</p>
+
 ### Plastic surgery for 3D city models: A pipeline for automatic geometry refinement and semantic enrichment
 
 **Wysocki, O.**, Schwab, B., Hoegner, L., Kolbe, TH. and Stilla, U.
