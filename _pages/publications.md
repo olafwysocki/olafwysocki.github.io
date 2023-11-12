@@ -24,6 +24,10 @@ author_profile: true
 ## 2022
 -----
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/SemanticChangeDetectionBayNetVer3.png" width="35%" title="combining"/>
+</p>
+
 ### Combining visibility analysis and deep learning for refinement of semantic 3D building models by conflict classification
 
 **Wysocki, O.**, Grilli, E., Hoegner, L. and Stilla, U.
