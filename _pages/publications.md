@@ -36,6 +36,9 @@ author_profile: true
 
 [[website](https://isprs-annals.copernicus.org/articles/X-4-W2-2022/289/2022/)] [[pdf](https://isprs-annals.copernicus.org/articles/X-4-W2-2022/289/2022/isprs-annals-X-4-W2-2022-289-2022.pdf)] [[arxiv](https://arxiv.org/abs/2303.05998)]
 
+___
+
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/underpass.jpeg" width="55%" title="underpasses"/>
 </p>
@@ -47,6 +50,8 @@ author_profile: true
 **International Journal of Applied Earth Observation and Geoinformation**
 
 [[website](https://www.sciencedirect.com/science/article/pii/S1569843222000437)] [[pdf](https://www.sciencedirect.com/science/article/pii/S1569843222000437/pdfft?md5=ba44c93136df12d071b50f10a768c8d1&pid=1-s2.0-S1569843222000437-main.pdf)] 
+
+___
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/visualisationAnnotatedPointCloudsA.gif" width="25%" title="scan2lod3"/>
@@ -75,6 +80,9 @@ author_profile: true
 **ISPRS Annals, 3D GeoInfo '21** 
 
 [[website](https://isprs-annals.copernicus.org/articles/VIII-4-W2-2021/45/2021/)] [[pdf](https://isprs-annals.copernicus.org/articles/VIII-4-W2-2021/45/2021/isprs-annals-VIII-4-W2-2021-45-2021.pdf)]
+
+___
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/plasticSurgery.png" width="55%" title="underpasses"/>
