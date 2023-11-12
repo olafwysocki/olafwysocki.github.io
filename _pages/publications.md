@@ -65,7 +65,7 @@ author_profile: true
 -----
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/confidenceLevel.png" width="25%" title="conf"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/confidenceLevel.png" width="35%" title="underpasses"/>
 </p>
 
 ### Unlocking point cloud potential: Fusing MLS point clouds with semantic 3D building models while considering uncertainty
@@ -77,7 +77,7 @@ author_profile: true
 [[website](https://isprs-annals.copernicus.org/articles/VIII-4-W2-2021/45/2021/)] [[pdf](https://isprs-annals.copernicus.org/articles/VIII-4-W2-2021/45/2021/isprs-annals-VIII-4-W2-2021-45-2021.pdf)]
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/plasticSurgery.png" width="25%" title="conf"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/plasticSurgery.png" width="55%" title="underpasses"/>
 </p>
 
 ### Plastic surgery for 3D city models: A pipeline for automatic geometry refinement and semantic enrichment
