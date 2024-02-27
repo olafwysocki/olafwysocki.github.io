@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[[Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/publication_list.pdf)] 
+[[Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/publication_list_wysocki.pdf)] 
 
 
 ## 2023
