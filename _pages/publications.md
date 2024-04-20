@@ -5,8 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-[[Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/publication_list_wysocki.pdf)] 
+[[Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/publication_list_wysocki.pdf)] [[and in Google Scholar](https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en&authuser=1)]
 
+## 2024
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="55%" title="mls2lod3"/>
+</p>
+
+### MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models
 
 ## 2023
 -----
