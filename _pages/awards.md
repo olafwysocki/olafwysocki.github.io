@@ -15,9 +15,10 @@ Selected awards, schoalrships, and personal research funding. So far, I have acq
     <div class="caption" align="center">Nominated for the best poster presentation, Sydney, Australia, '23</div>
 </p>
 
+- **[TUM Global Incentive Fund]**, 7k EUR international exchange funding for the joint 'ReLoD3' project with Prof Biljecki, NUS, Singapore, Munich, Germany, Jan 2024 
 - **[TUM Internationalization Fund]**, 3k EUR personal funding, nominee for research stay at the University of Nottingham & travel to CVPR '23, Munich, Germany, May 2023 
 - **[Erasmus++ for staff]**, 3k EUR personal funding, nominee for outside-EU teaching exchange, Munich, Germany, May 2023
-- **[Best poster presentation]**, Runner-up at the 3D GeoInfo 2022 conference, Sydney, Australia Oct 2022
+- **[Best poster presentation]**, Runner-up at the 3D GeoInfo 2022 conference, Sydney, Australia, Oct 2022
 - **[2-years DAAD scholarship]** 20k+ EUR personal funding, Deutscher Akademischer Austauschdienst (DAAD) Study Scholarships for Graduates, Aug 2018
 - **[Rector’s Scholarship]** 2k+ EUR personal funding, for high grade average and achievements in the scientific area, Sep 2017
 - **[Best oral paper presentation]** 1st place at the 15th Students’ Science Conference, Jelenia Gora, Poland, Sep 2017
