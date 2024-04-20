@@ -8,12 +8,54 @@ author_profile: true
 [[Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/publication_list_wysocki.pdf)] [[and in Google Scholar](https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en&authuser=1)]
 
 ## 2024
+-----
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="55%" title="mls2lod3"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mls2lod3.png" width="55%" title="mls2lod3"/>
+</p>
+
+### Reconstructing facade details using MLS point clouds and Bag-of-Words approach
+
+Froech, T., **Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+[[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_21)] [[pdf](https://arxiv.org/pdf/2402.06521.pdf)] [[arxiv](https://arxiv.org/abs/2402.06521)]
+
+___
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mls2lod3.png" width="55%" title="mls2lod3"/>
+</p>
+
+### Classifying point clouds at the facade-level using geometric features and deep learning networks
+
+Tan, Y., **Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+[[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_25)] [[pdf](https://arxiv.org/pdf/2402.06506.pdf)] [[arxiv](https://arxiv.org/abs/2402.06506)]
+
+___
+
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mls2lod3.png" width="55%" title="mls2lod3"/>
+</p>
+
+### Transferring facade labels between point clouds with semantic octrees while considering change detection
+
+Schwarz, S., Pilz, T., **Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+[[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_17)] [[pdf](https://arxiv.org/pdf/2402.06531.pdf)] [[arxiv](https://arxiv.org/abs/2402.06531)]
+
+___
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mls2lod3.png" width="55%" title="mls2lod3"/>
 </p>
 
 ### MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models
+
+**Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+[[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_23)] [[pdf](https://arxiv.org/pdf/2402.06288.pdf)] [[arxiv](https://arxiv.org/abs/2402.06288)]
 
 ## 2023
 -----
