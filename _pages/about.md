@@ -24,6 +24,7 @@ Currently, a member of [Leonhard Obermeyer Center (LOC)](https://www.ed.tum.de/l
 
 Recent highlights
 ======
+- **03 / 2024**: Kicking-off a new research project devoted to LoD3 reconstruction with [TUM Engineering Geodesy](https://www.asg.ed.tum.de/en/gds/home/), and [Prof Biljecki's group](https://ual.sg/) at [NUS](https://nus.edu.sg/)
 - **11 / 2023**: Presenting my research findings at the [Leonhard Obermeyer Center (LOC) Day](https://www.ed.tum.de/loc/events/center-day/) dedicated to the built environment research
 - **09 / 2023**: Contributing and leading author of 4 research papers presented at the [3D GeoInfo '23](https://www.3dgeoinfo.org/3dgeoinfo/) conference devoted to the digital twinning aspects
 - **09 / 2023**: Presenting my research findings at the [Ordance Survey](https://www.ordnancesurvey.co.uk/) 3D PhD Programme meeting
