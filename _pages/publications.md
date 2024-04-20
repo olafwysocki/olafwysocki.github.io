@@ -11,7 +11,7 @@ author_profile: true
 -----
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="35%" title="mls2lod3"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="35%" title="bow"/>
 </p>
 
 ### Reconstructing facade details using MLS point clouds and Bag-of-Words approach
@@ -23,7 +23,7 @@ Froech, T., **Wysocki, O.**, Hoegner, L., and Stilla, U.
 ___
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/featureInjection.jpeg" width="55%" title="mls2lod3"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/injectionFeatures.png" width="55%" title="injections"/>
 </p>
 
 ### Classifying point clouds at the facade-level using geometric features and deep learning networks
@@ -36,7 +36,7 @@ ___
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/transfering.jpeg" width="55%" title="mls2lod3"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/transfering.jpeg" width="55%" title="transfer"/>
 </p>
 
 ### Transferring facade labels between point clouds with semantic octrees while considering change detection
