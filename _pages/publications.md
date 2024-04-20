@@ -11,7 +11,7 @@ author_profile: true
 -----
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="55%" title="mls2lod3"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="35%" title="mls2lod3"/>
 </p>
 
 ### Reconstructing facade details using MLS point clouds and Bag-of-Words approach
