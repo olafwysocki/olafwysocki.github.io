@@ -1,0 +1,11 @@
+---
+title: "Scan2LoD3: Reconstructing Semantic 3D Building Models at LoD3 Using Ray Casting and Bayesian Networks"
+collection: talks
+type: "CVPRW 2023"
+permalink: /talks/2023-06-19-CVPRW
+venue: "CVPR"
+date: 2023-06-19
+location: "Vancouver, Canada"
+---
+
+Presenting the 'Scan2LoD3' method at the CVPR Workshops of Photogrammetric Computer Vision (PCV) [LinkedIn](https://www.linkedin.com/posts/olaf-wysocki_cvpr2023-activity-7076734614546833408-x6d9?utm_source=share&utm_medium=member_desktop) [Offcial webpage](https://photogrammetric-cv-workshop.github.io/)
