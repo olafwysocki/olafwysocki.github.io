@@ -24,6 +24,7 @@ Currently, a member of [Leonhard Obermeyer Center (LOC)](https://www.ed.tum.de/l
 
 Recent highlights
 ======
+- **09 / 2024**: Presenting my research paper [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) at the Nectar Track of [GCPR](https://www.gcpr-vmv.de/year/2024) and at the [Georg Nemetschek Institute Symposium & Expo on Artificial Intelligence for the Built World](https://events.gni.tum.de/ai-symposium-2024/) more [here](https://www.linkedin.com/feed/update/urn:li:activity:7240344673528016897/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7240344673528016897%29)
 - **03 / 2024**: Kicking-off a new research project devoted to LoD3 reconstruction with [TUM Engineering Geodesy](https://www.asg.ed.tum.de/en/gds/home/), and [Prof Biljecki's group](https://ual.sg/) at [NUS](https://nus.edu.sg/)
 - **11 / 2023**: Presenting my research findings at the [Leonhard Obermeyer Center (LOC) Day](https://www.ed.tum.de/loc/events/center-day/) dedicated to the built environment research
 - **09 / 2023**: Contributing and leading author of 4 research papers presented at the [3D GeoInfo '23](https://www.3dgeoinfo.org/3dgeoinfo/) conference devoted to the digital twinning aspects
