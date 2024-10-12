@@ -10,8 +10,8 @@ author_profile: true
 ## 2024
 -----
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="35%" title="bow"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="15%" title="bow"/>
 </p>
 
 ### Reconstructing facade details using MLS point clouds and Bag-of-Words approach
@@ -22,8 +22,8 @@ Froech, T., **Wysocki, O.**, Hoegner, L., and Stilla, U.
 
 ___
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/injectionFeatures.png" width="55%" title="injections"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/injectionFeatures.png" width="15%" title="injections"/>
 </p>
 
 ### Classifying point clouds at the facade-level using geometric features and deep learning networks
@@ -35,8 +35,8 @@ Tan, Y., **Wysocki, O.**, Hoegner, L., and Stilla, U.
 ___
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/transfering.jpeg" width="55%" title="transfer"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/transfering.jpeg" width="15%" title="transfer"/>
 </p>
 
 ### Transferring facade labels between point clouds with semantic octrees while considering change detection
@@ -47,8 +47,8 @@ Schwarz, S., Pilz, T., **Wysocki, O.**, Hoegner, L., and Stilla, U.
 
 ___
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mls2lod3.png" width="55%" title="mls2lod3"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mls2lod3.png" width="15%" title="mls2lod3"/>
 </p>
 
 ### MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models
@@ -60,8 +60,8 @@ ___
 ## 2023
 -----
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="55%" title="scan2lod3"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/scan2LoD3.gif" width="15%" title="scan2lod3"/>
 </p>
 
 ### Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks
@@ -76,8 +76,8 @@ ___
 ## 2022
 -----
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/SemanticChangeDetectionBayNetVer3.png" width="35%" title="combining"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/SemanticChangeDetectionBayNetVer3.png" width="15%" title="combining"/>
 </p>
 
 ### Combining visibility analysis and deep learning for refinement of semantic 3D building models by conflict classification
@@ -91,8 +91,8 @@ ___
 ___
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/underpass.jpeg" width="55%" title="underpasses"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/underpass.jpeg" width="15%" title="underpasses"/>
 </p>
 
 ### Refinement of semantic 3D building models by reconstructing underpasses from MLS point clouds
@@ -105,8 +105,8 @@ ___
 
 ___
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/visualisationAnnotatedPointCloudsA.gif" width="25%" title="scan2lod3"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/OloOcki/tum-facade/main/img/visualisationAnnotatedPointCloudsA.gif" width="15%" title="scan2lod3"/>
 </p>
 
 ### TUM-FAÇADE: Reviewing and enriching point cloud benchmarks for façade segmentation
@@ -121,8 +121,8 @@ ___
 ## 2021
 -----
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/confidenceLevel.png" width="35%" title="underpasses"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/confidenceLevel.png" width="15%" title="underpasses"/>
 </p>
 
 ### Unlocking point cloud potential: Fusing MLS point clouds with semantic 3D building models while considering uncertainty
@@ -136,8 +136,8 @@ ___
 ___
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/plasticSurgery.png" width="55%" title="underpasses"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/plasticSurgery.png" width="15%" title="underpasses"/>
 </p>
 
 ### Plastic surgery for 3D city models: A pipeline for automatic geometry refinement and semantic enrichment
