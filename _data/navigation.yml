@@ -12,8 +12,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-	- title: "Mentorship"
-		url: /mentorship/
+  - title: "Mentorship"
+    url: /mentorship/
 
  
   # - title: "Teaching"
