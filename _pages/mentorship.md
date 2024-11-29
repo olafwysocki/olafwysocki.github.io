@@ -13,7 +13,7 @@ People that I had a pleasure to supervise:
 ### Theses
 - Yuan Luo, M.Sc. thesis, 2024
 - Chenhao Huang, B.Sc. thesis, 2024
-- Yue Tan, M.Sc. thesis, 2024, (scientific publications in preparation), now at mapping company
+- Yue Tan, M.Sc. thesis, 2024, (scientific publications in preparation), now at a 3D mapping company
 - Antonia Bieringer, B.Sc. thesis, 2023 (followed by a scientific publication, Science and Geoinnovation award at Intergeo '24), now a Msc student at TUM 
 - Thomas Froech, M.Sc. thesis, 2023 (followed by a scientific publication), now PhD at TUM
 - Khairil Ariffin Bin Yahya, M.Sc. thesis, 2023, now at Singapore Land Authority
