@@ -12,7 +12,7 @@ redirect_from:
 Short bio
 ======
 
-I'm a Research Associate on 3D object reconstruction & semantic segmentation of point clouds at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/). 
+I'm a Research Associate (postdoc) on 3D object reconstruction & semantic segmentation of point clouds at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/). 
 In 2024, I received *summa cum laude* PhD in Photogrammetry and Remote Sensing focusing on building reconstruction using laser scanning point clouds, under the mentorship of [Prof Thomas H. Kolbe](https://scholar.google.com/citations?user=fHuIr30AAAAJ&hl=en&oi=ao) and late [Prof Uwe Stilla](https://scholar.google.com/citations?user=M3beNHEAAAAJ&hl=en). Four years back, I obtained my Geodesy and Geoinformatics master's degree from [Technical University of Munich](https://www.tum.de/en/) with a major in photogrammetry. I was fortunate to intern and complete my master's thesis at [Audi AG](https://www.audi.com/de/company.html) and had a previous stint as a geomatics professional in a 3D GIS-focused company.
 Currently, a member of [Leonhard Obermeyer Center (LOC)](https://www.ed.tum.de/loc/home/), [Runder Tisch GIS](https://rundertischgis.de/), [TUM Data Innovation Lab](https://www.mdsi.tum.de/en/di-lab/tum-di-lab/) and [Get Kids into Survey](https://www.getkidsintosurvey.com/).
 
