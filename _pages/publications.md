@@ -5,20 +5,74 @@ permalink: /publications/
 author_profile: true
 ---
 
-[[Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/Complete_list_publications.pdf)] [[and in Google Scholar](https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en&authuser=1)]
+- [Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/Complete_list_publications.pdf)
+- [and in Google Scholar](https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en&authuser=1)
+  
 
 Do you want to hear about a highlight of my work, [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) method? -> listen to the [podcast](https://notebooklm.google.com/notebook/7d3cb029-08e4-471c-879a-fac9a499bcf2/audio) ;)
 
 ## 2024
 -----
 
+### ZAHA: Introducing the Level of Facade Generalization and the large-scale point cloud facade semantic segmentation benchmark dataset
+
+**Wysocki, O.**, Tan Y., Froech T., Xia, Y., Wysocki M., Hoegner, L., Cremers D., and Holst Ch
+
+*Accepted for WACV '25*
+
+[[arxiv](https://arxiv.org/abs/2411.04865)]
+
+___
+
+### FacaDiffy: Inpainting unseen facade parts using diffusion models
+
+Froech, T., **Wysocki, O.**, Xia, Y., Xie, J., Schwab, B., Cremers D., Kolbe, TH.
+
+*Under review for ISPRS Annals*
+
+[[own preprint](https://shorturl.at/miIvq)]
+
+___
+
+### Mind the domain gap: Measuring the domain gap between real-world and synthetic point clouds for automated driving development
+
+Duc, N., Lai, YL., Madlindl, P., Zhu, X., Schwab, B., **Wysocki, O.**, Hoegner, L., Kolbe, TH
+
+*Under review for PFG*
+
+[[own preprint](https://shorturl.at/hVCqt)]
+
+___
+
+### Analyzing the impact of semantic LoD3 building models on image-based vehicle localization
+
+Bieringer, A., **Wysocki, O.**, Tuttas, S., Hoegner, L., Holst, Ch. 
+
+**ISPRS Annals, 3DGeoInfo '24**
+
+[[website](https://isprs-annals.copernicus.org/articles/X-4-W5-2024/55/2024/)] [[pdf](https://isprs-annals.copernicus.org/articles/X-4-W5-2024/55/2024/isprs-annals-X-4-W5-2024-55-2024.pdf)] [[arxiv](https://arxiv.org/html/2407.21432v1)]
+
+___
+
+### Enriching thermal point clouds of buildings using semantic 3D building models
+
+Zhu, J., **Wysocki, O.**, Holst, Ch., Kolbe, TH. , 
+
+**ISPRS Annals, 3DGeoInfo '24**
+
+[[website](https://isprs-annals.copernicus.org/articles/X-4-W5-2024/341/2024/)] [[pdf](https://isprs-annals.copernicus.org/articles/X-4-W5-2024/341/2024/isprs-annals-X-4-W5-2024-341-2024.pdf)] [[arxiv](https://arxiv.org/abs/2407.21436)]
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/facadeBoW.jpeg" width="15%" title="bow"/>
 </p>
 
+___
+
 ### Reconstructing facade details using MLS point clouds and Bag-of-Words approach
 
 Froech, T., **Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+**Recent Advances in 3D Geoinformation Science, 3D GeoInfo '23** 
 
 [[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_21)] [[pdf](https://arxiv.org/pdf/2402.06521.pdf)] [[arxiv](https://arxiv.org/abs/2402.06521)]
 
@@ -31,6 +85,8 @@ ___
 ### Classifying point clouds at the facade-level using geometric features and deep learning networks
 
 Tan, Y., **Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+**Recent Advances in 3D Geoinformation Science, 3D GeoInfo '23** 
 
 [[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_25)] [[pdf](https://arxiv.org/pdf/2402.06506.pdf)] [[arxiv](https://arxiv.org/abs/2402.06506)]
 
@@ -45,6 +101,8 @@ ___
 
 Schwarz, S., Pilz, T., **Wysocki, O.**, Hoegner, L., and Stilla, U. 
 
+**Recent Advances in 3D Geoinformation Science, 3D GeoInfo '23** 
+
 [[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_17)] [[pdf](https://arxiv.org/pdf/2402.06531.pdf)] [[arxiv](https://arxiv.org/abs/2402.06531)]
 
 ___
@@ -56,6 +114,8 @@ ___
 ### MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models
 
 **Wysocki, O.**, Hoegner, L., and Stilla, U. 
+
+**Recent Advances in 3D Geoinformation Science, 3D GeoInfo '23** 
 
 [[website](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_23)] [[pdf](https://arxiv.org/pdf/2402.06288.pdf)] [[arxiv](https://arxiv.org/abs/2402.06288)]
 
@@ -117,7 +177,7 @@ ___
 
 **ISPR Archives, ArCH '22** 
 
-[[website](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.html)] [[pdf](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.pdf)] [[arxiv](https://arxiv.org/abs/2304.07140)]
+[[website](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.html)] [[pdf](https://isprs-archives.copernicus.org/articles/XLVI-2-W1-2022/529/2022/isprs-archives-XLVI-2-W1-2022-529-2022.pdf)] [[arxiv](https://arxiv.org/abs/2304.07140)][[Open3D-ML dataset](https://github.com/isl-org/Open3D-ML)]
 
 
 ## 2021
