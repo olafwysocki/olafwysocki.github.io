@@ -44,6 +44,17 @@ Duc, N., Lai, YL., Madlindl, P., Zhu, X., Schwab, B., **Wysocki, O.**, Hoegner, 
 
 ___
 
+### CDGS: Confidence-aware depth regularization for 3D Gaussian Splatting
+
+Zhang, Q., **Wysocki, O.**, Urban, S., Jutzi, B.
+
+**ISPRS Archives, LowCost 3D '24**
+
+[[website](https://github.com/zqlin0521/cdgs-release)] [[pdf](https://isprs-archives.copernicus.org/articles/XLVIII-2-W7-2024/189/2024/)] 
+
+___
+
+
 ### Analyzing the impact of semantic LoD3 building models on image-based vehicle localization
 
 Bieringer, A., **Wysocki, O.**, Tuttas, S., Hoegner, L., Holst, Ch. 
