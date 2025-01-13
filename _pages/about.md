@@ -35,3 +35,5 @@ Recent highlights
 - **07 / 2023**: Presenting my paper [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) at the [CVPR Workshop '23](https://cvpr2023.thecvf.com/Conferences/2023) 
 
 [[Publications](https://olafwysocki.github.io/publications/)]  [[Talks](https://olafwysocki.github.io/talks/)] [[Teaching](https://olafwysocki.github.io/teaching/)] [[CV](https://olafwysocki.github.io/cv/)]
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Folafwysocki.github.io&count_bg=%234993DB&title_bg=%23555555&icon=buddy.svg&icon_color=%2313CF5C&title=webpage+hits&edge_flat=false)](https://hits.seeyoufarm.com)
