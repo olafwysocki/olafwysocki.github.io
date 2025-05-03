@@ -24,7 +24,7 @@ Currently, a member of [Leonhard Obermeyer Center (LOC)](https://www.ed.tum.de/l
 
 Recent highlights
 ======
-- **04 / 2025**: 2x accepted papers at [CVPR'25](https://cvpr.thecvf.com/): [Texture2LoD3](https://wenzhaotang.github.io/Texture2LoD3/) and [RADLER](https://arxiv.org/abs/2504.12167)
+- **04 / 2025**: 2x accepted papers at [CVPR'25](https://cvpr.thecvf.com/): [Texture2LoD3](https://wenzhaotang.github.io/Texture2LoD3/) and [RADLER](https://gpp-communication.github.io/RADLER/)
 - **03 / 2025**: Our [ZAHA](https://openaccess.thecvf.com/content/WACV2025/supplemental/Wysocki_ZAHA_Introducing_the_WACV_2025_supplemental.pdf) - to date largest facade benchmark dataset - presented at [WACV'25](https://wacv2025.thecvf.com/) in Tucson, Arizona, USA
 - **12 / 2024**: I defended my doctoral thesis with the *summa cum laude*! More [here](https://www.linkedin.com/posts/olaf-wysocki_phd-thesis-tum-activity-7274382418566918144-F3JW?utm_source=share&utm_medium=member_desktop)
 - **10 / 2024**: Best oral presentation at [ISPRS Symposium](https://www.isprs.org/tc4-symposium2024/), Perth, Australia, for the review paper centering on [Open Data Semantic 3D City Models](https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/) more [here](https://www.linkedin.com/posts/olaf-wysocki_isprs-3dmodel-reconstruction-activity-7256952980636135425-oTVb?utm_source=share&utm_medium=member_desktop)
