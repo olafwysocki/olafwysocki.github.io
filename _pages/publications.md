@@ -11,16 +11,35 @@ author_profile: true
 
 Do you want to hear about a highlight of my work, [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) method? -> listen to the [podcast](https://notebooklm.google.com/notebook/7d3cb029-08e4-471c-879a-fac9a499bcf2/audio) ;)
 
+## 2025
+-----
+
+### Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images 
+
+Wang, T., Li, W., Liang, X., **Wysocki, O.**, Biljecki, F., Holst, Ch., Jutzi, B. 
+
+*Accepted for CVPRW '25*
+
+[[website](https://wenzhaotang.github.io/Texture2LoD3/)] [[arxiv](https://arxiv.org/abs/2504.05249v1)]
+
+### RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning 
+
+Luo, Y., Hoffmann, R., Xia, Y., **Wysocki, O.**, Schwab, B., Kolbe, TH., Cremers, D. 
+
+*Accepted for CVPRW '25*
+
+[[website](https://gpp-communication.github.io/RADLER/)] [[arxiv](https://arxiv.org/abs/2504.12167)]
+
 ## 2024
 -----
 
 ### ZAHA: Introducing the Level of Facade Generalization and the large-scale point cloud facade semantic segmentation benchmark dataset
 
-**Wysocki, O.**, Tan Y., Froech T., Xia, Y., Wysocki M., Hoegner, L., Cremers D., and Holst Ch
+**Wysocki, O.**, Tan, Y., Froech, T., Xia, Y., Wysocki, M., Hoegner, L., Cremers, D., and Holst, Ch.
 
 *Accepted for WACV '25*
 
-[[arxiv](https://arxiv.org/abs/2411.04865)]
+[[website](https://github.com/oloocki/zaha)] [[arxiv](https://arxiv.org/abs/2411.04865)] [[WACV'25](https://openaccess.thecvf.com/content/WACV2025/supplemental/Wysocki_ZAHA_Introducing_the_WACV_2025_supplemental.pdf)]
 
 ___
 
