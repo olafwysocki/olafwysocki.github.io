@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-- [Publications list as PDF](https://github.com/olafwysocki/olafwysocki.github.io/blob/master/files/Complete_list_publications.pdf)
-- [and in Google Scholar](https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en&authuser=1)
+Complete list:
+- [Google Scholar](https://scholar.google.com/citations?user=9xQhtFcAAAAJ&hl=en&authuser=1)
   
 
 Do you want to hear about a highlight of my work, [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) method? -> listen to the [podcast](https://notebooklm.google.com/notebook/7d3cb029-08e4-471c-879a-fac9a499bcf2/audio) ;)
