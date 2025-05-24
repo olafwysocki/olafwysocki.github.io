@@ -24,6 +24,7 @@ Currently, a member of [Leonhard Obermeyer Center (LOC)](https://www.ed.tum.de/l
 
 Recent highlights
 ======
+- **05 / 2025**: Our 4-years long urban digital twin project TUM2TWIN is out! Check the [pre-print](https://arxiv.org/abs/2505.07396) and the [website](https://tum2t.win/) 
 - **04 / 2025**: 2x accepted papers at [CVPR'25](https://cvpr.thecvf.com/): [Texture2LoD3](https://wenzhaotang.github.io/Texture2LoD3/) and [RADLER](https://gpp-communication.github.io/RADLER/)
 - **03 / 2025**: Our [ZAHA](https://openaccess.thecvf.com/content/WACV2025/supplemental/Wysocki_ZAHA_Introducing_the_WACV_2025_supplemental.pdf) - to date largest facade benchmark dataset - presented at [WACV'25](https://wacv2025.thecvf.com/) in Tucson, Arizona, USA
 - **12 / 2024**: I defended my doctoral thesis with the *summa cum laude*! More [here](https://www.linkedin.com/posts/olaf-wysocki_phd-thesis-tum-activity-7274382418566918144-F3JW?utm_source=share&utm_medium=member_desktop)
@@ -36,6 +37,4 @@ Recent highlights
 - **08 / 2023**: Joining as visiting researcher at the [University of Nottingham](https://www.nottingham.ac.uk/) working on 3D point cloud segmentation
 - **07 / 2023**: Presenting my paper [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) at the [CVPR Workshop '23](https://cvpr2023.thecvf.com/Conferences/2023) 
 
-[[Publications](https://olafwysocki.github.io/publications/)]  [[Talks](https://olafwysocki.github.io/talks/)] [[Teaching](https://olafwysocki.github.io/teaching/)] [[CV](https://olafwysocki.github.io/cv/)]
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Folafwysocki.github.io&count_bg=%234993DB&title_bg=%23555555&icon=buddy.svg&icon_color=%2313CF5C&title=webpage+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[[Publications](https://olafwysocki.github.io/publications/)]  [[Teaching](https://olafwysocki.github.io/teaching/)] [[CV](https://olafwysocki.github.io/cv/)]
