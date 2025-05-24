@@ -11,7 +11,8 @@ author_profile: true
 People that I had a pleasure to supervise:
 
 ### Theses
-- Yuan Luo, M.Sc. thesis, 2024
+- Amirarsalan Ehsani, M.Sc. thesis, 2025
+- Yuan Luo, M.Sc. thesis, 2024, (followed by a scientific publication, CVPRW25), now at GPP Communication
 - Chenhao Huang, B.Sc. thesis, 2024, now a MSc student at TUM 
 - Yue Tan, M.Sc. thesis, 2024, (scientific publications in preparation), now at a 3D mapping company
 - Antonia Bieringer, B.Sc. thesis, 2023 (followed by a scientific publication; Science and Geoinnovation award at Intergeo '24), now a MSc student at TUM 
@@ -19,8 +20,6 @@ People that I had a pleasure to supervise:
 - Khairil Ariffin Bin Yahya, M.Sc. thesis, 2023, now at Singapore Land Authority
 - Shuangyi Liu, M.Sc. thesis, 2022, now at Microsoft 
 
-- Afreen Abdul Khaleel, M.Sc. thesis, (ongoing)
-- Amirarsalan Ehsani, M.Sc. thesis, (ongoing)
 - Jingfeng Mao, M.Sc. thesis, (ongoing)
 
 ### Master's semester projects
