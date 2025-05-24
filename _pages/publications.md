@@ -14,6 +14,14 @@ Do you want to hear about a highlight of my work, [Scan2LoD3](https://openaccess
 ## 2025
 -----
 
+### TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset
+
+**Wysocki, O.**, Schwab, B., Biswanath, MK., Zhang, Q., Zhu, J., Froech, T., Heeramaglore, M., Hijazi, I., Kanna, K., Pechinger, M., Chen, Z., Sun, Y., Segura, AR., Xu, Z., AbdelGafar, O., Mehranfar, M., Yeshwanth, Ch., Liu, YC., Yazdi, H., Wang, J., Auer, S., Anders, K., Bogenberger, K., Borrmann, A., Dai, A., Hoegner, L., Holst, Ch. Kolbe, TH., Ludwig, F., Nießner, M., Petzold, F., Zhu, XX., Jutzi, B.
+
+*Submitted to ISPRS Journal of Photogrammetry and Remote Sensing '25*
+
+[[website](https://tum2t.win/)] [[arxiv](https://arxiv.org/abs/2505.07396)]
+
 ### Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images 
 
 Wang, T., Li, W., Liang, X., **Wysocki, O.**, Biljecki, F., Holst, Ch., Jutzi, B. 
@@ -29,6 +37,14 @@ Luo, Y., Hoffmann, R., Xia, Y., **Wysocki, O.**, Schwab, B., Kolbe, TH., Cremers
 *Accepted for CVPRW '25*
 
 [[website](https://gpp-communication.github.io/RADLER/)] [[arxiv](https://arxiv.org/abs/2504.12167)]
+
+### OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion 
+
+Kang, S., Liao, MY., Xia, Y., **Wysocki, O.**, Jutzi, B., Cremers, D.
+
+*Submitted to CoRL '25*
+
+[[arxiv](https://arxiv.org/abs/2504.19258)]
 
 ## 2024
 -----
