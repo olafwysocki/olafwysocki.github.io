@@ -12,11 +12,12 @@ redirect_from:
 Short bio
 ======
 
-I'm a Research Associate on 3D object reconstruction & semantic segmentation of point clouds at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/). 
-In 2024, I received *summa cum laude* PhD in Photogrammetry and Remote Sensing focusing on building reconstruction using laser scanning point clouds, under the mentorship of [Prof Thomas H. Kolbe](https://scholar.google.com/citations?user=fHuIr30AAAAJ&hl=en&oi=ao) and late [Prof Uwe Stilla](https://scholar.google.com/citations?user=M3beNHEAAAAJ&hl=en). A few years back, I obtained my Geodesy and Geoinformatics master's degree from [Technical University of Munich](https://www.tum.de/en/) with a major in photogrammetry. I was fortunate to intern and complete my master's thesis at [Audi AG](https://www.audi.com/de/company.html) and had a previous stint as a geomatics professional in a 3D GIS-focused company.
+I'm an upcoming Research Assistant Professor at the University of Cambridge opening a group CV4DT (Computer Vision for Digital Twins). 
+I worked as Research Associate on 3D object reconstruction & semantic segmentation of point clouds at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/), where
+I received *summa cum laude* PhD in Photogrammetry and Remote Sensing focusing on building reconstruction using laser scanning point clouds while addressing uncertainties, under the mentorship of [Prof Thomas H. Kolbe](https://scholar.google.com/citations?user=fHuIr30AAAAJ&hl=en&oi=ao) and late [Prof Uwe Stilla](https://scholar.google.com/citations?user=M3beNHEAAAAJ&hl=en). A few years back, I obtained my Geodesy and Geoinformatics master's degree with a major in photogrammetry from [Technical University of Munich](https://www.tum.de/en/). I was fortunate to intern and complete my master's thesis devoted to HD Maps for automated driving at [Audi AG](https://www.audi.com/de/company.html) and had a previous stint as a geomatics professional in a 3D urban-reconstruction-focused company.
 Currently, a member of [Leonhard Obermeyer Center (LOC)](https://www.ed.tum.de/loc/home/), [Runder Tisch GIS](https://rundertischgis.de/), [TUM Data Innovation Lab](https://www.mdsi.tum.de/en/di-lab/tum-di-lab/) and [Get Kids into Survey](https://www.getkidsintosurvey.com/).
 
-**Research interests**: 3D semantic reconstruction, 3D semantic segmentation, 3D building models, 3D virtual testbeds for automated driving, mobile mapping, urban digital twins
+**Research interests**: 3D semantic reconstruction, 3D semantic segmentation, 3D building models, 3D virtual testbeds for automated driving, uncertainties, urban digital twins
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mscGrad.jpg" width="75%" title="OlafMsc"/>
