@@ -26,6 +26,7 @@ Cherishing interdisciplinary collaboration with top-notch professors and their l
 
 Recent highlights
 ======
+- **06 / 2025**: Winning the best paper award ([To Glue or Not to Glue?](https://arxiv.org/abs/2505.17973)) and chairing the point cloud processing session at [MMT in Xiamen, China](https://mmt2025.xmu.edu.cn/2025/); 
 - **05 / 2025**: Our 4-years long urban digital twin project TUM2TWIN is out! Check the [pre-print](https://arxiv.org/abs/2505.07396) and the [website](https://tum2t.win/) 
 - **04 / 2025**: 2x accepted papers at [CVPR'25](https://cvpr.thecvf.com/): [Texture2LoD3](https://wenzhaotang.github.io/Texture2LoD3/) and [RADLER](https://gpp-communication.github.io/RADLER/)
 - **03 / 2025**: Our [ZAHA](https://openaccess.thecvf.com/content/WACV2025/supplemental/Wysocki_ZAHA_Introducing_the_WACV_2025_supplemental.pdf) - to date largest facade benchmark dataset - presented at [WACV'25](https://wacv2025.thecvf.com/) in Tucson, Arizona, USA
