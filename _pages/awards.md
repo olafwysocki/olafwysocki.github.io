@@ -15,6 +15,7 @@ Selected awards, schoalrships, and personal research funding. So far, I have acq
     <div class="caption" align="center">Nominated for the best poster presentation, Sydney, Australia, '23</div>
 </p>
 
+- **[Best paper award]** at the ISPRS MMT conference, Xiamen, China, Jun 2025
 - **[Best oral paper presentation]** 1st place at the ISPRS Symposium in Perth, Australia, Oct 2024
 - **[TUM Global Incentive Fund]**, 7k EUR international exchange funding for the joint 'ReLoD3' project with Prof Biljecki, NUS, Singapore, Munich, Germany, Jan 2024 
 - **[TUM Internationalization Fund]**, 3k EUR personal funding, nominee for research stay at the University of Nottingham & travel to CVPR '23, Munich, Germany, May 2023 
