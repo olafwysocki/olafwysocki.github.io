@@ -26,6 +26,7 @@ Cherishing interdisciplinary collaboration with top-notch professors and their l
 
 Recent highlights
 ======
+- **08 / 2025**: Starting my new group, [CV4DT](https://cv4dt.github.io/), at the University of Cambridge!
 - **06 / 2025**: Winning the best paper award ([To Glue or Not to Glue?](https://arxiv.org/abs/2505.17973)) and chairing the point cloud processing session at [MMT in Xiamen, China](https://mmt2025.xmu.edu.cn/2025/); 
 - **05 / 2025**: Our 4-years long urban digital twin project TUM2TWIN is out! Check the [pre-print](https://arxiv.org/abs/2505.07396) and the [website](https://tum2t.win/) 
 - **04 / 2025**: 2x accepted papers at [CVPR'25](https://cvpr.thecvf.com/): [Texture2LoD3](https://wenzhaotang.github.io/Texture2LoD3/) and [RADLER](https://gpp-communication.github.io/RADLER/)
