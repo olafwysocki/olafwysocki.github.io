@@ -12,7 +12,7 @@ redirect_from:
 Short bio
 ======
 
-I'm Research Assistant Professor at the [University of Cambridge](https://www.cam.ac.uk/) leading the group [CV4DT](https://cv4dt.github.io/). 
+I'm Assistant Research Professor at the [University of Cambridge](https://www.cam.ac.uk/) leading the group [CV4DT](https://cv4dt.github.io/). 
 I was Research Associate on 3D object reconstruction & semantic segmentation of point clouds at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/), where
 I received *summa cum laude* PhD in Photogrammetry and Remote Sensing under the mentorship of [Prof Thomas H. Kolbe](https://scholar.google.com/citations?user=fHuIr30AAAAJ&hl=en&oi=ao) and late [Prof Uwe Stilla](https://scholar.google.com/citations?user=M3beNHEAAAAJ&hl=en). A few years back, I obtained my Geodesy and Geoinformatics master's degree with a major in photogrammetry from [Technical University of Munich](https://www.tum.de/en/). I was fortunate to intern and complete my master's thesis devoted to HD Maps for automated driving at [Audi AG](https://www.audi.com/de/company.html) and had a previous stint as a geomatics professional in a 3D urban-reconstruction-focused company.
 Currently, a member of [Runder Tisch GIS](https://rundertischgis.de/), [TUM Data Innovation Lab](https://www.mdsi.tum.de/en/di-lab/tum-di-lab/) and [Get Kids into Survey](https://www.getkidsintosurvey.com/).
