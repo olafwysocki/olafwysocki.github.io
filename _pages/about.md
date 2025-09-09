@@ -26,6 +26,7 @@ Cherishing interdisciplinary collaboration with top-notch professors and their l
 
 Recent highlights
 ======
+- **09 / 2025**: 2xISPRS Annals papers: ([CM2LoD3?](https://arxiv.org/pdf/2508.15672)) best paper award, and ([GS4Buildings](https://arxiv.org/pdf/2508.07355)); and chairing a session; at [3DGeoInfo in Tokyo, Japan](https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html); 
 - **08 / 2025**: Starting my new group, [CV4DT](https://cv4dt.github.io/), at the University of Cambridge!
 - **06 / 2025**: Winning the best paper award ([To Glue or Not to Glue?](https://arxiv.org/abs/2505.17973)) and chairing the point cloud processing session at [MMT in Xiamen, China](https://mmt2025.xmu.edu.cn/2025/); 
 - **05 / 2025**: Our 4-years long urban digital twin project TUM2TWIN is out! Check the [pre-print](https://arxiv.org/abs/2505.07396) and the [website](https://tum2t.win/) 
