@@ -8,19 +8,25 @@ author_profile: true
 ## Mentorship
 -----
 
-People that I had a pleasure to supervise:
+Amazing people that I have/had a pleasure to supervise:
+
+### PhD Students
+- Qilin Zhang, TUM (ongoing)
+- Ziyang Xu, TUM (ongoing)
+- Tianyi You, TUM (ongoing)
+- Chenhong Zhang, University of Cambridge (ongoing)
 
 ### Theses
+- Jingfeng Mao, M.Sc. thesis, 2025
 - Amirarsalan Ehsani, M.Sc. thesis, 2025
-- Yuan Luo, M.Sc. thesis, 2024, (followed by a scientific publication, CVPRW25), now at GPP Communication
+- Yuan Luo, M.Sc. thesis, 2024, (followed by a scientific publication, CVPR25), now at GPP Communication
 - Chenhao Huang, B.Sc. thesis, 2024, now a MSc student at TUM 
 - Yue Tan, M.Sc. thesis, 2024, (scientific publications in preparation), now at a 3D mapping company
 - Antonia Bieringer, B.Sc. thesis, 2023 (followed by a scientific publication; Science and Geoinnovation award at Intergeo '24), now a MSc student at TUM 
+- Antonia Bieringer, M.Sc. thesis, 2025, now at European Space Agency   
 - Thomas Froech, M.Sc. thesis, 2023 (followed by a scientific publication), now PhD at TUM
 - Khairil Ariffin Bin Yahya, M.Sc. thesis, 2023, now at Singapore Land Authority
 - Shuangyi Liu, M.Sc. thesis, 2022, now at Microsoft 
-
-- Jingfeng Mao, M.Sc. thesis, (ongoing)
 
 ### Master's semester projects
 - Thomas Froech (followed by a scientific publication)
