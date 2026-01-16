@@ -43,5 +43,3 @@ Recent highlights
 - **09 / 2023**: :microphone: Presenting my research findings at the [Ordance Survey](https://www.ordnancesurvey.co.uk/) 3D PhD Programme meeting
 - **08 / 2023**: :microphone: Joining as visiting researcher at the [University of Nottingham](https://www.nottingham.ac.uk/) working on 3D point cloud segmentation
 - **07 / 2023**: :page_with_curl: Presenting my paper [Scan2LoD3](https://openaccess.thecvf.com/content/CVPR2023W/PCV/papers/Wysocki_Scan2LoD3_Reconstructing_Semantic_3D_Building_Models_at_LoD3_Using_Ray_CVPRW_2023_paper.pdf) at the [CVPR Workshop '23](https://cvpr2023.thecvf.com/Conferences/2023) 
-
-[[Publications](https://olafwysocki.github.io/publications/)]  [[Teaching](https://olafwysocki.github.io/teaching/)] [[CV](https://olafwysocki.github.io/cv/)]
