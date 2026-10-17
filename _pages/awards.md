@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Awards & Scholarships & Personal funding
+## Awards & Scholarships & Funding
 -----
 
 
@@ -14,6 +14,11 @@ author_profile: true
     <div class="caption" align="center">Nominated for the best poster presentation, Sydney, Australia, '23</div>
 </p>
 
+- **[Top Reviewer]** at the NeurIPS 2026, Sydney, Australia, Oct 2026
+- **[CDT PhD Studentship]** ~€160k funding for recruiting a PhD student, with Ordnance Survey
+- **[EPSRC Doctoral Landscape Award PhD Studentship]** ~€134k funding for recruiting a PhD student, government
+- **[LORC PhD Studentship]** ~€124k funding for recruiting a PhD student, with Laing O'Rourke Centre
+- **[NERF2BIM GNI Project]** €1.2M collective funding for an interdisciplinary project (engineering and computer science), Co-Investigator, with GNI  
 - **[Best paper award]** at the ISPRS 3DGeoInfo conference, Tokyo, Japan, Sep 2025
 - **[Best paper award]** at the ISPRS MMT conference, Xiamen, China, Jun 2025
 - **[Best oral paper presentation]** 1st place at the ISPRS Symposium in Perth, Australia, Oct 2024
