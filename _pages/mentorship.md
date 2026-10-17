@@ -11,10 +11,15 @@ author_profile: true
 Amazing people that I have/had a pleasure to supervise:
 
 ### PhD Students
-- Qilin Zhang, TUM (ongoing)
-- Ziyang Xu, TUM (ongoing)
-- Tianyi You, TUM (ongoing)
-- Chenhong Zhang, University of Cambridge (ongoing)
+- Jingfeng Mao, University of Cambridge (ongoing)
+- Zhishuo Liu, University of Cambridge (ongoing)
+- Adam Deryło, University of Cambridge (ongoing)
+- Chenhong Zhang, University of Cambridge (ongoing, co-supervised with Prof Brian Sheil)
+- Wanru Yang, University of Cambridge (ongoing, co-supervised with Prof Brian Sheil)
+- Haibing Wu, University of Cambridge (ongoing, co-supervised with Prof Brian Sheil)
+- Qilin Zhang, TUM/KIT (ongoing, co-supervised with Prof Boris Jutzi)
+- Ziyang Xu, TUM (ongoing, co-supervised with Prof Christoph Holst)
+- Tianyi You, TUM (ongoing, co-supervised with Prof Benjamin Busam)
 
 ### Theses
 - Jingfeng Mao, M.Sc. thesis, 2025
