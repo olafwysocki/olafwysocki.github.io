@@ -8,10 +8,9 @@ author_profile: true
 ## Awards & Scholarships & Personal funding
 -----
 
-Selected awards, schoalrships, and personal research funding. So far, I have acquired more than 30k EUR to finance my various research activities.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/sydneyAward.jpeg" width="65%" title="OlafAtBalcony"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/twinworld.jpg" width="65%" title="OlafAtBalcony"/>
     <div class="caption" align="center">Nominated for the best poster presentation, Sydney, Australia, '23</div>
 </p>
 
