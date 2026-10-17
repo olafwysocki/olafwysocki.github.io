@@ -13,10 +13,9 @@ Short bio
 ======
 
 I'm Assistant Research Professor at the [University of Cambridge](https://www.cam.ac.uk/) leading the [CV4DT](https://cv4dt.github.io/) group. 
-I was Research Associate on 3D object reconstruction & semantic segmentation at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/), where
+I was Senior and Research Associate on 3D object reconstruction & semantic segmentation at the [Photogrammetry & Remote Sensing Chair](https://www.asg.ed.tum.de/en/pf/home/), [Technical University of Munich](https://www.tum.de/en/), where
 I received *summa cum laude* PhD in Photogrammetry and Remote Sensing under the mentorship of [Prof Thomas H. Kolbe](https://scholar.google.com/citations?user=fHuIr30AAAAJ&hl=en&oi=ao) and late [Prof Uwe Stilla](https://scholar.google.com/citations?user=M3beNHEAAAAJ&hl=en). A few years back, I obtained my Geodesy and Geoinformatics master's degree with a major in photogrammetry from [Technical University of Munich](https://www.tum.de/en/). I was fortunate to intern and complete my master's thesis devoted to HD Maps for automated driving at [Audi AG](https://www.audi.com/de/company.html) and had a previous stint as a geomatics professional in a 3D urban-reconstruction-focused company.
-Currently, a member of [Runder Tisch GIS](https://rundertischgis.de/), [TUM Data Innovation Lab](https://www.mdsi.tum.de/en/di-lab/tum-di-lab/) and [Get Kids into Survey](https://www.getkidsintosurvey.com/).
-Cherishing interdisciplinary collaboration with top-notch professors and their labs: [Yan Xia](https://scholar.google.com/citations?user=xkBn4mMAAAAJ&hl=en) [Christoph Holst](https://scholar.google.com/citations?user=ly_zF18AAAAJ&hl=en) [Boris Jutzi](https://scholar.google.com/citations?user=ZpB02CwAAAAJ&hl=en) [Filip Biljecki](https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en) [Daniel Cremers](https://scholar.google.com/citations?user=cXQciMEAAAAJ&hl=en).  
+Cherishing interdisciplinary collaboration with top-notch researchers and their labs: [Yan Xia](https://scholar.google.com/citations?user=xkBn4mMAAAAJ&hl=en) [Christoph Holst](https://scholar.google.com/citations?user=ly_zF18AAAAJ&hl=en) [Boris Jutzi](https://scholar.google.com/citations?user=ZpB02CwAAAAJ&hl=en) [Filip Biljecki](https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en) [Daniel Cremers](https://scholar.google.com/citations?user=cXQciMEAAAAJ&hl=en).  
 
 **Research interests**: Geometry- & physics- driven approaches, 3D semantic reconstruction, 3D semantic segmentation, 3D digital twins, 3D minimum-viable representation
 
@@ -26,6 +25,8 @@ Cherishing interdisciplinary collaboration with top-notch professors and their l
 
 Recent highlights
 ======
+- **09 / 2026**: Initiating the [TwinWorld](https://twin-world.github.io/) workshops at the [ECCV 2026](https://eccv.ecva.net/)!
+- **01 / 2026**: :hammer_and_wrench: Co-organsing 2x [CVPR 2026](https://cvpr.thecvf.com/) workshops: [PBVS](https://pbvs-workshop.github.io/) and [DriveX](https://drivex-workshop.github.io/cvpr2026/)!
 - **01 / 2026**: :hammer_and_wrench: Co-organsing 2x [CVPR 2026](https://cvpr.thecvf.com/) workshops: [PBVS](https://pbvs-workshop.github.io/) and [DriveX](https://drivex-workshop.github.io/cvpr2026/)!
 - **10 / 2025**: :page_with_curl: Our [TrueCity](https://arxiv.org/abs/2511.07007) paper goes to [3DV 2026](https://3dvconf.github.io/2026/)!
 - **09 / 2025**: :trophy: :page_with_curl: 2xISPRS Annals papers: [CM2LoD3](https://arxiv.org/pdf/2508.15672) best paper award, and [GS4Buildings](https://arxiv.org/pdf/2508.07355); and chairing a session; at [3DGeoInfo in Tokyo, Japan](https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html); 
