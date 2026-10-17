@@ -20,12 +20,12 @@ Cherishing interdisciplinary collaboration with top-notch researchers and their 
 **Research interests**: Geometry- & physics- driven approaches, 3D semantic reconstruction, 3D semantic segmentation, 3D digital twins, 3D minimum-viable representation
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/cv4dt.jpg" width="75%" title="OlafMsc"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/cv4dt.jpg" width="75%" title="cv4dt"/>
 </p>
 
 Recent highlights
 ======
-- **10 / 2026**: Recognised at Top Reviewer for the [NeurIPS 2026](https://neurips.cc/)!
+- **10 / 2026**: Recognised as Top Reviewer for the [NeurIPS 2026](https://neurips.cc/)!
 - **09 / 2026**: 4x papers accepted for the [NeurIPS 2026](https://neurips.cc/)!
 - **09 / 2026**: Initiating the [TwinWorld](https://twin-world.github.io/) workshops at the [ECCV 2026](https://eccv.ecva.net/)!
 - **06 / 2026**: Our [GS4City](https://arxiv.org/abs/2604.11401) paper goes to [CVPR 2026](https://cvpr.thecvf.com/)!
