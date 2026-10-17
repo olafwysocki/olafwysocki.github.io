@@ -20,7 +20,7 @@ Cherishing interdisciplinary collaboration with top-notch researchers and their 
 **Research interests**: Geometry- & physics- driven approaches, 3D semantic reconstruction, 3D semantic segmentation, 3D digital twins, 3D minimum-viable representation
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/mscGrad.jpg" width="75%" title="OlafMsc"/>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/cv4dt.jpg" width="75%" title="OlafMsc"/>
 </p>
 
 Recent highlights
