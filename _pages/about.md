@@ -17,7 +17,7 @@ I was Senior and Research Associate on 3D object reconstruction & semantic segme
 I received *summa cum laude* PhD in Photogrammetry and Remote Sensing under the mentorship of [Prof Thomas H. Kolbe](https://scholar.google.com/citations?user=fHuIr30AAAAJ&hl=en&oi=ao) and late [Prof Uwe Stilla](https://scholar.google.com/citations?user=M3beNHEAAAAJ&hl=en). A few years back, I obtained my Geodesy and Geoinformatics master's degree with a major in photogrammetry from [Technical University of Munich](https://www.tum.de/en/). I was fortunate to intern and complete my master's thesis devoted to HD Maps for automated driving at [Audi AG](https://www.audi.com/de/company.html) and had a previous stint as a geomatics professional in a 3D urban-reconstruction-focused company.
 Cherishing interdisciplinary collaboration with top-notch researchers and their labs: [Yan Xia](https://scholar.google.com/citations?user=xkBn4mMAAAAJ&hl=en) [Christoph Holst](https://scholar.google.com/citations?user=ly_zF18AAAAJ&hl=en) [Boris Jutzi](https://scholar.google.com/citations?user=ZpB02CwAAAAJ&hl=en) [Filip Biljecki](https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en) [Daniel Cremers](https://scholar.google.com/citations?user=cXQciMEAAAAJ&hl=en).  
 
-**Research interests**: Geometry- & physics- driven approaches, 3D semantic reconstruction, 3D semantic segmentation, 3D digital twins, 3D minimum-viable representation
+**Research interests**: Geometry- & physics- driven approaches, 3D object reconstruction, semantic segmentation, 3D/4D digital twins, 3D minimum-viable representation
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/cv4dt.jpg" width="75%" title="cv4dt"/>
