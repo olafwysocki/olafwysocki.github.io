@@ -5,7 +5,6 @@ permalink: /mentorship/
 author_profile: true
 ---
 
-## Mentorship
 -----
 
 Amazing people that I have/had a pleasure to supervise:
