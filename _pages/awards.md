@@ -10,8 +10,8 @@ author_profile: true
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/twinworld.jpg" width="65%" title="OlafAtBalcony"/>
-    <div class="caption" align="center">Nominated for the best poster presentation, Sydney, Australia, '23</div>
+    <img src="https://raw.githubusercontent.com/olafwysocki/olafwysocki.github.io/master/images/twinworld.jpg" width="65%" title="twinworld"/>
+    <div class="caption" align="center">Opening the TwinWorld workshop at ECCV26</div>
 </p>
 
 - **[Top Reviewer]** at the NeurIPS 2026, Sydney, Australia, Oct 2026
